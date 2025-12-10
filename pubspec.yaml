@@ -57,6 +57,10 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  # Add your app logo(s) here. Place the image file at `assets/images/logo_light.png`.
+  assets:
+    - assets/images/logo_light.png
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
